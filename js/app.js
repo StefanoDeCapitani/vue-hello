@@ -5,7 +5,7 @@ window.addEventListener("DOMContentLoaded", () => {
     el: "#root",
     data: {
       title: "Hello World!",
-      urlImage: "../img/monitor.jpg",
+      urlImage: "img/monitor.jpg",
       altImage: "Postazione desktop con monitor",
     },
   });
